@@ -39,7 +39,7 @@ Al repetir el recorrido miles de veces, muchos resultados tienden a agruparse ce
 4. Ejecuta el programa:
 
    ```bash
-   python EMILIA_REYES_PROYECTO3.py
+   python EMILIA_REYES_PROYECTOM3.py
    ```
 
 El programa muestra el total de canicas y el conteo por contenedor. También guarda la gráfica como `histograma_canicas.png`.
